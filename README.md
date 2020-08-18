@@ -1,4 +1,4 @@
-### Chess Challenge
+### Chess Challenge
 
 We would like for you to build the game of Chess using the command line in Java. The game has some interesting rules and is a great parallel for various business rules we encounter in real projects. Our objective is to see how you organize your thoughts and implement major OO principles into your work. We will also assess your overall coding skills in the Java language. The end product must be a PLAYABLE GAME. This does not mean all the rules need to be perfect, but the general game play should be implemented.
 
